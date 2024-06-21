@@ -49,7 +49,7 @@
     <h1>Student Information Form</h1>
     <form>
         <div class="form-group">
-            <label for="name"> STUDENT Name:</label>
+            <label for="name"> Students and Name:</label>
             <input type="text" id="name" name="name" required>
         </div>
         <div class="form-group">
